@@ -1,7 +1,5 @@
 # News-Summarizer
 Python + Flask web app that applies NLP techniques (tokenization, stopword removal, sentence scoring) to generate real-time extractive summaries from text or news URLs.
-# 📰 News Summarizer
-
 A Python-based web application that automatically generates concise summaries of long news articles using Natural Language Processing (NLP). Built with Flask and front-end technologies, the app allows users to enter either raw text or a news article URL and receive a real-time, readable summary.
 
 ## 🚀 Live Demo
